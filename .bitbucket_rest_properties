@@ -1,4 +1,5 @@
 base_rest_url=http://bitbucket.myserver.com/bitbucket/rest/api/1.0
+starting_branch=develop
 primary_username=JenkinsUser
 primary_password=abc123xyz789
 secondary_username=JenkinsApprovalUser
